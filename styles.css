@@ -35,7 +35,6 @@ body {
   border-radius: 5px;
 }
 .input-two {
-  width: 100%;
   padding: 10px;
   margin: 10px 0;
   border: 1px solid #ccc;
@@ -43,9 +42,11 @@ body {
 }
 
 form div input {
-  width: 100%;
   padding: 10px;
   margin: 10px 0;
   border: 1px solid #ccc;
   border-radius: 5px;
+}
+radio {
+  align-items: self-start;
 }
